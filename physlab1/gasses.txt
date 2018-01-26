@@ -1,0 +1,60 @@
+Jan 12, 2018  03:54:15 PM
+Residual Gas Analyzer Software 
+RGA Software Version, 3.101.209
+
+Table Scan Setup:
+
+Active channels in Scan, 10 
+Units, Torr
+Focus Voltage, 90, Volts 
+Ion Energy, HIGH 
+Electron Energy, 70, eV 
+CEM Voltage, 1000, Volts
+CEM Gain, 1.00E+006 
+Sensitivity Factor, 1.61E-004 
+Filament Current, 1.00, mAmps
+
+
+Channel,      Mass(amu),          Name,            Cal Factor,    Noise Floor,            CEM Status
+1,		 28,  		 Nitrogen           ,	1.00,		 3,			OFF
+2,		 32,  		 Oxygen             ,	1.00,		 3,			OFF
+3,		 2,  		 Hydrogen           ,	1.00,		 3,			OFF
+4,		 18,  		 Water              ,	1.00,		 3,			OFF
+5,		 44,  		 Carbon dioxide     ,	1.00,		 3,			OFF
+6,		 40,  		 Argon              ,	1.00,		 3,			OFF
+7,		 20,  		 Neon               ,	1.00,		 3,			OFF
+8,		 4,  		 Helium             ,	1.00,		 3,			OFF
+9,		 16,  		 Methane            ,	1.00,		 3,			OFF
+10,		 28,  		 Nitrogen           ,	1.00,		 3,			OFF
+
+
+Jan 12, 2018  03:54:15 PM
+Residual Gas Analyzer Software 
+RGA Software Version, 3.101.209
+
+Table Scan Setup:
+
+Active channels in Scan, 10 
+Units, Torr
+Focus Voltage, 90, Volts 
+Ion Energy, HIGH 
+Electron Energy, 70, eV 
+CEM Voltage, 1000, Volts
+CEM Gain, 1.00E+006 
+Sensitivity Factor, 1.61E-004 
+Filament Current, 1.00, mAmps
+
+
+Channel,      Mass(amu),          Name,            Cal Factor,    Noise Floor,            CEM Status
+1,		 28,  		 Nitrogen           ,	1.00,		 3,			OFF
+2,		 32,  		 Oxygen             ,	1.00,		 3,			OFF
+3,		 2,  		 Hydrogen           ,	1.00,		 3,			OFF
+4,		 18,  		 Water              ,	1.00,		 3,			OFF
+5,		 44,  		 Carbon dioxide     ,	1.00,		 3,			OFF
+6,		 40,  		 Argon              ,	1.00,		 3,			OFF
+7,		 20,  		 Neon               ,	1.00,		 3,			OFF
+8,		 4,  		 Helium             ,	1.00,		 3,			OFF
+9,		 16,  		 Methane            ,	1.00,		 3,			OFF
+10,		 28,  		 Nitrogen           ,	1.00,		 3,			OFF
+
+
